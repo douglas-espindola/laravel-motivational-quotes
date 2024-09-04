@@ -1,11 +1,11 @@
 {
-    "name": "douglas/laravel-inspiring-quotes",
+    "name": "douglas-spindola/laravel-inspiring-quotes",
     "description": "Um pacote Laravel para fornecer citações inspiradoras",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Douglas\\LaravelInspiringQuotes\\": "src/"
+            "DouglasSpindola\\LaravelInspiringQuotes\\": "src/"
         }
     },
     "authors": [

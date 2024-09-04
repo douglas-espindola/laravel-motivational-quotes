@@ -1,6 +1,6 @@
 <?php
 
-namespace Douglas\LaravelInspiringQuotes;
+namespace DouglasSpindola\LaravelInspiringQuotes;
 
 use Illuminate\Support\Collection;
 
