@@ -72,6 +72,7 @@ class Inspiring
             'A maior batalha é a guerra contra a ignorância. - Mustafa Kemal Atatürk',
             'Sempre lembre-se de que você é absolutamente único. Assim como todo mundo. - Margaret Mead',
             'Você deve ser a mudança que deseja ver no mundo. - Mahatma Gandhi',
+            'Sábio é o homem que conhece os próprios limites - John Clair'
         ]);
     }
 
